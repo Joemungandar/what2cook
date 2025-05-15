@@ -1,0 +1,422 @@
+{
+    "Pasta": {
+        "Zutaten": [
+            "Nudeln",
+            "Tomatenmark",
+            "passierte Tomaten",
+            "Zwiebel",
+            "Salz",
+            "Oliven\u00f6l"
+        ],
+        "Kochzeit": 12,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "K\u00e4snudeln": {
+        "Zutaten": [
+            "Nudeln",
+            "Reibk\u00e4se",
+            "Zwiebel",
+            "Salz",
+            "Oliven\u00f6l"
+        ],
+        "Kochzeit": 12,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "K\u00e4ssp\u00e4tzle": {
+        "Zutaten": [
+            "Mehl",
+            "Wasser",
+            "Ei",
+            "Reibk\u00e4se",
+            "Zwiebel",
+            "Salz",
+            "Oliven\u00f6l"
+        ],
+        "Kochzeit": 30,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Hackfleischso\u00dfe": {
+        "Zutaten": [
+            "Hackfleisch",
+            "Knoblauch",
+            "Oliven\u00f6l",
+            "Tomatenmark",
+            "passierte Tomaten",
+            "Wasser",
+            "Zwiebel",
+            "Salz"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": false,
+        "vegan": false
+    },
+    "Feta-Salat": {
+        "Zutaten": [
+            "Salat",
+            "Tomaten",
+            "Feta",
+            "Ruccola",
+            "Oliven\u00f6l",
+            "Sonnenblumen\u00f6l",
+            "K\u00fcrbiskern\u00f6l",
+            "Balsamico",
+            "Salz",
+            "Kr\u00e4uter"
+        ],
+        "Kochzeit": 20,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Pizza": {
+        "Zutaten": [
+            "Pizzateig",
+            "passierte Tomaten",
+            "Reibk\u00e4se",
+            "Salz"
+        ],
+        "Kochzeit": 40,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Avocado-Zucchini-Pesto": {
+        "Zutaten": [
+            "Zucchini",
+            "Zwiebel",
+            "Avocado",
+            "Zitrone",
+            "Sojaso\u00dfe",
+            "Knoblauch",
+            "Oliven\u00f6l"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Kaiserschmarren": {
+        "Zutaten": [
+            "Mehl",
+            "Ei",
+            "Milch",
+            "Zucker",
+            "Salz"
+        ],
+        "Kochzeit": 45,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Pfannenkuchen": {
+        "Zutaten": [
+            "Mehl",
+            "Ei",
+            "Milch",
+            "Salz"
+        ],
+        "Kochzeit": 45,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Tomatensuppe": {
+        "Zutaten": [
+            "Tomaten",
+            "Zwiebel",
+            "Knoblauch",
+            "Oliven\u00f6l",
+            "Salz",
+            "Pfeffer",
+            "Basilikum"
+        ],
+        "Kochzeit": 20,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Gnocchi mit Spinat-Sahneso\u00dfe": {
+        "Zutaten": [
+            "Gnocchi",
+            "Spinat",
+            "Sahne",
+            "Knoblauch",
+            "Salz",
+            "Pfeffer",
+            "Parmesan"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Gem\u00fcsecurry": {
+        "Zutaten": [
+            "Kokosmilch",
+            "Karotten",
+            "Zucchini",
+            "Paprika",
+            "Currypulver",
+            "Knoblauch",
+            "Ingwer",
+            "Salz"
+        ],
+        "Kochzeit": 25,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Kichererbsensalat": {
+        "Zutaten": [
+            "Kichererbsen",
+            "Gurke",
+            "Tomaten",
+            "Zwiebel",
+            "Oliven\u00f6l",
+            "Zitronensaft",
+            "Salz",
+            "Pfeffer",
+            "Petersilie"
+        ],
+        "Kochzeit": 10,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Falafel": {
+        "Zutaten": [
+            "Kichererbsen",
+            "Knoblauch",
+            "Petersilie",
+            "Koriander",
+            "Kreuzk\u00fcmmel",
+            "Mehl",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 20,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Minestrone": {
+        "Zutaten": [
+            "Zucchini",
+            "Karotten",
+            "Tomaten",
+            "Bohnen",
+            "Zwiebel",
+            "Sellerie",
+            "Oliven\u00f6l",
+            "Nudeln",
+            "Salz",
+            "Pfeffer",
+            "Basilikum"
+        ],
+        "Kochzeit": 30,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Risotto mit Pilzen": {
+        "Zutaten": [
+            "Arborio-Reis",
+            "Pilze",
+            "Zwiebel",
+            "Gem\u00fcsebr\u00fche",
+            "Butter",
+            "Parmesan",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 30,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Quinoasalat mit Gem\u00fcse": {
+        "Zutaten": [
+            "Quinoa",
+            "Paprika",
+            "Gurke",
+            "Tomaten",
+            "Zwiebel",
+            "Oliven\u00f6l",
+            "Zitronensaft",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 20,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Zucchinipuffer": {
+        "Zutaten": [
+            "Zucchini",
+            "Mehl",
+            "Ei",
+            "Salz",
+            "Pfeffer",
+            "Knoblauch",
+            "Oliven\u00f6l"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Ofengem\u00fcse": {
+        "Zutaten": [
+            "Kartoffeln",
+            "Karotten",
+            "Paprika",
+            "Zucchini",
+            "Oliven\u00f6l",
+            "Salz",
+            "Pfeffer",
+            "Rosmarin"
+        ],
+        "Kochzeit": 35,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Kartoffelsalat": {
+        "Zutaten": [
+            "Kartoffeln",
+            "Essig",
+            "\u00d6l",
+            "Zwiebel",
+            "Salz",
+            "Pfeffer",
+            "Petersilie"
+        ],
+        "Kochzeit": 30,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Spaghetti Aglio e Olio": {
+        "Zutaten": [
+            "Spaghetti",
+            "Knoblauch",
+            "Oliven\u00f6l",
+            "Peperoni",
+            "Salz",
+            "Petersilie"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Ratatouille": {
+        "Zutaten": [
+            "Zucchini",
+            "Aubergine",
+            "Paprika",
+            "Tomaten",
+            "Zwiebel",
+            "Knoblauch",
+            "Oliven\u00f6l",
+            "Thymian",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 40,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Pilzpfanne": {
+        "Zutaten": [
+            "Pilze",
+            "Zwiebel",
+            "Knoblauch",
+            "Oliven\u00f6l",
+            "Petersilie",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Erd\u00e4pfelgulasch": {
+        "Zutaten": [
+            "Kartoffeln",
+            "Paprika",
+            "Zwiebel",
+            "Knoblauch",
+            "Gem\u00fcsebr\u00fche",
+            "Paprikapulver",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 25,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Spinat-Lasagne": {
+        "Zutaten": [
+            "Lasagnebl\u00e4tter",
+            "Spinat",
+            "Ricotta",
+            "Tomatenso\u00dfe",
+            "K\u00e4se",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 45,
+        "vegetarisch": true,
+        "vegan": false
+    },
+    "Gem\u00fcsepfanne mit Tofu": {
+        "Zutaten": [
+            "Tofu",
+            "Paprika",
+            "Zucchini",
+            "Karotten",
+            "Sojaso\u00dfe",
+            "Oliven\u00f6l",
+            "Knoblauch",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 20,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Linseneintopf": {
+        "Zutaten": [
+            "Linsen",
+            "Kartoffeln",
+            "Karotten",
+            "Zwiebel",
+            "Gem\u00fcsebr\u00fche",
+            "Lorbeerblatt",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 35,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Tabouleh": {
+        "Zutaten": [
+            "Bulgur",
+            "Petersilie",
+            "Minze",
+            "Tomaten",
+            "Gurke",
+            "Zitronensaft",
+            "Oliven\u00f6l",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 15,
+        "vegetarisch": true,
+        "vegan": true
+    },
+    "Blumenkohl-Curry": {
+        "Zutaten": [
+            "Blumenkohl",
+            "Kokosmilch",
+            "Currypulver",
+            "Zwiebel",
+            "Knoblauch",
+            "Ingwer",
+            "Salz",
+            "Pfeffer"
+        ],
+        "Kochzeit": 25,
+        "vegetarisch": true,
+        "vegan": true
+    }
+}
